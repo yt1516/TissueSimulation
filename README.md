@@ -1,5 +1,5 @@
 # TissueSimulation
-Voxel-based tissue simulation using Unity
+Voxel-based tissue simulation and facial expression integration using Unity
 
 Jacob's Solo Project 2020.
 
